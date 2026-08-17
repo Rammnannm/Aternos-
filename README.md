@@ -89,14 +89,11 @@ Now in Discord, use:
 
 MIT License — feel free to use and modify. Please credit the original author.
 
-## 🤝 MaintainerAdd commentMore actions
+## 🤝 Maintainer
 
 Made with ❤️ by [@MrDeathFox](https://github.com/MrDeathFox)
 
 Pull requests welcome. If you'd like to add server queue support or auto-refresh ads, feel free to contribute!
 
 ## Discord Community
-[Obsidian Link](https://discord.gg/mKMm5a5CCK)
-
-## Reddit Community
-[r/MinecraftServerPromo](https://www.reddit.com/r/MinecraftServerPromo/)
+[Nova Lifesteal](https://discord.gg/APNHYkXpS)
