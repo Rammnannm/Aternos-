@@ -15,7 +15,6 @@ async function startAternosServer(message) {
 
     browser = await puppeteer.launch({
       headless: false,
-      executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
       userDataDir: './puppeteer-profile',
       args: ['--no-sandbox', '--disable-setuid-sandbox'],
       defaultViewport: null
